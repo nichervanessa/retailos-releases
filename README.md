@@ -1,1 +1,2 @@
-# retailos-pro
+# RetailOS Pro
+This app developed by BlackcodesofT Company 
